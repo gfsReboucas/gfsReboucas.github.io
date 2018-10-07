@@ -12,8 +12,14 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Mechanical Engineering**, [Technical University of Denmark](http://www.mek.dtu.dk/english), 2018.
- * Thesis: Vibro-Impact Mechanics --- Analytical, Numerical and Experimental Investigations.
- * Responsibilities:
+* test 1
+ * test 2
+  * test 3
+   * test 4
+    * test 5
+
+  * Thesis: Vibro-Impact Mechanics --- Analytical, Numerical and Experimental Investigations.
+  * Responsibilities:
   * Project and time management;
   * Collect and analyze experimental data on structural vibrations;
   * Comparison of different model formulations against experimental data;
