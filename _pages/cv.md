@@ -12,12 +12,11 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Mechanical Engineering**, [Technical University of Denmark](http://www.mek.dtu.dk/english), 2018.
-* test 1;
- * test 2;
-  * test 3;
-   * test 4;
-    * test 5;
-
+	* test 1;
+		* test 2;
+			* test 3;
+				* test 4;
+					* test 5;
   * Thesis: _Vibro-Impact Mechanics --- Analytical, Numerical and Experimental Investigations_.
   * Responsibilities:
   * Project and time management;
