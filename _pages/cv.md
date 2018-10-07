@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Mechanical Engineering**, [Technical University of Denmark](http://www.mek.dtu.dk/english), 2018.
-* test 1
- * test 2
-  * test 3
-   * test 4
-    * test 5
+* test 1;
+ * test 2;
+  * test 3;
+   * test 4;
+    * test 5;
 
-  * Thesis: Vibro-Impact Mechanics --- Analytical, Numerical and Experimental Investigations.
+  * Thesis: _Vibro-Impact Mechanics --- Analytical, Numerical and Experimental Investigations_.
   * Responsibilities:
   * Project and time management;
   * Collect and analyze experimental data on structural vibrations;
@@ -30,7 +30,7 @@ Education
   * Publication of 2 articles in international peer-reviewed journals;
   * Oral presentations in 2 international scientific conferences;
 * **M.Sc. in Mechanical Engineering**, [Federal University of Rio Grande do Norte](http://www.ufrn.br/en), 2014.
-* Thesis: Stabilization of Unstable Periodic Orbits using Sliding Mode Control with Adaptive Compensation (in Portuguese).
+* Thesis: _Stabilization of Unstable Periodic Orbits using Sliding Mode Control with Adaptive Compensation_ (in Portuguese).
 * Courses:
  * Finite Element Method;
   * Linear and Nonlinear Optimization;
@@ -44,7 +44,7 @@ Education
   * Research Assistant: Modeling and analysis of nonlinear systems;
   * Engineering internship: Maintenance sector of a medicine factory (NUPLAM);
 
-Work experience
+Experience
 ======
 * Aug/2013--Jun/2014: **Assistant Professor (non-tenure)**.
  * [Federal University of Rio Grande do Norte](http://www.ufrn.br/en);
@@ -75,8 +75,8 @@ Skills
  * Resilient;
  * Flexible;
  * Self-motivated;
-[comment]: #  (* Self-driven;)
-[comment]: #  * Curious;
+[//]: #  (* Self-driven;)
+[//]: #  * Curious;
  * Open minded;
  * Positive attitude;
  * Research;
