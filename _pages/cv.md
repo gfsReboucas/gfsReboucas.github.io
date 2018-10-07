@@ -69,8 +69,8 @@ Skills
  * Resilient;
  * Flexible;
  * Self-motivated;
-[comment]: <>  (* Self-driven;)
-[comment]: <>  * Curious;
+[comment]: #  (* Self-driven;)
+[comment]: #  * Curious;
  * Open minded;
  * Positive attitude;
  * Research;
