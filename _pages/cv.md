@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,53 +11,86 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Mechanical Engineering, [Technical University of Denmark](http://www.mek.dtu.dk/english), 2018
-	* Thesis: Vibro-Impact Mechanics --- Analytical, Numerical and Experimental Investigations
-	* Responsibilities:
-		* Project and time management;
-	   	* Collect and analyze experimental data on structural vibrations;
-	   	* Comparison of different model formulations against experimental data;
-	   	* Model validation;
-	   	* Preparation of concise and detailed reports/articles;
-	   	* Dissemination of project findings;
-	* Achievements:
-		* Publication of 2 articles in international peer-reviewed journals;
-		* Oral presentations in 2 international scientific conferences;
-* M.Sc. in Mechanical Engineering, [Federal University of Rio Grande do Norte](http://www.ufrn.br/en), 2014
-	* Thesis: Stabilization of Unstable Periodic Orbits using Sliding Mode Control with Adaptive Compensation (in Portuguese)
-	* Courses:
-		* Finite Element Method;
-		* Linear and Nonlinear Optimization;
-		* Nonlinear Systems;
-		* Adaptive Control;
-		* Linear Control;
-		* Neural Networks
-* B.Sc. in Mechanical Engineering, [Federal University of Rio Grande do Norte](http://www.ufrn.br/en), 2011
-	* Activities:
-		* Teaching Assistant: Algorithms and object-oriented programming;
-		* Research Assistant: Modeling and analysis of nonlinear systems;
-		* Engineering internship: Maintenance sector of a medicine factory (NUPLAM);
+* **Ph.D. in Mechanical Engineering**, [Technical University of Denmark](http://www.mek.dtu.dk/english), 2018.
+ * Thesis: Vibro-Impact Mechanics --- Analytical, Numerical and Experimental Investigations.
+ * Responsibilities:
+  * Project and time management;
+  * Collect and analyze experimental data on structural vibrations;
+  * Comparison of different model formulations against experimental data;
+  * Model validation;
+  * Preparation of concise and detailed reports/articles;
+  * Dissemination of project findings;
+ * Achievements:
+  * Publication of 2 articles in international peer-reviewed journals;
+  * Oral presentations in 2 international scientific conferences;
+* **M.Sc. in Mechanical Engineering**, [Federal University of Rio Grande do Norte](http://www.ufrn.br/en), 2014.
+* Thesis: Stabilization of Unstable Periodic Orbits using Sliding Mode Control with Adaptive Compensation (in Portuguese).
+* Courses:
+ * Finite Element Method;
+  * Linear and Nonlinear Optimization;
+  * Nonlinear Systems;
+  * Adaptive Control;
+  * Linear Control;
+  * Neural Networks
+* **B.Sc. in Mechanical Engineering**, [Federal University of Rio Grande do Norte](http://www.ufrn.br/en), 2011.
+ * Activities:
+  * Teaching Assistant: Algorithms and object-oriented programming;
+  * Research Assistant: Modeling and analysis of nonlinear systems;
+  * Engineering internship: Maintenance sector of a medicine factory (NUPLAM);
 
 Work experience
 ======
-* Aug/2013--Jun/2014: Assistant Professor (non-tenure)
-  * [Federal University of Rio Grande do Norte](http://www.ufrn.br/en);
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug/2013--Jun/2014: **Assistant Professor (non-tenure)**.
+ * [Federal University of Rio Grande do Norte](http://www.ufrn.br/en);
+ * Activities:
+  * Lecturing on bachelor courses with 30 to 120 students;
+  * Preparation of assignments and evaluations;
+  * Feedback on students’ performance;
+ * Achievements:
+  * Motivate students to keep going on their bachelors despite the challenges of higher education;
+  * Provoke students to see their assignments as ways to develop engineering skills;
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical:
+ * Experimental testing;
+ * Model validation;
+ * Modelling, Analysis, and Tuning of Mechanical Systems;
+ * Instrumentation;
+ * Signal Analysis;
+ * Numerical Simulations;
+ * Programming;
+ * Experimental Modal Analysis (EMA);
+
+* Personal:
+ * Teamwork;
+ * Critical thinking;
+ * Self-learning;
+ * Resilient;
+ * Flexible;
+ * Self-motivated;
+[comment]: <>  (* Self-driven;)
+[comment]: <>  * Curious;
+ * Open minded;
+ * Positive attitude;
+ * Research;
+ * Writing;
+ * Organization;
+ * Systematic;
+
+* Software:
+	* MATLAB;
+	* SolidWorks;
+	* AutoCAD;
+	* Microsoft Office;
+	* Windows;
+	* Linux;
+	* C/C++;
+	* LaTeX;
+
+* Hardware:
+	* dSPACE/ControlDesk;
+	* Signal conditioners, transducers, and shakers from several manufacturers;
 
 Publications
 ======
