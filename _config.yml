@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Geraldo Rebouças / Ph.D. candidate"
 title_separator          : "-"
 name                     : &name "Geraldo Rebouças"
-description              : &description "to be done..."
+description              : &description "to be done 1..."
 url                      : https://gfsReboucas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -79,21 +79,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Geraldo F de S. Rebouças"
-  avatar           : "profile.png"
-  bio              : "to be done..."
+  name             : "Geraldo F. de S. Rebouças"
+  avatar           : "photo_031.jpg"
+  bio              : "Mechanical Engineer, Ph.D. candidate at [Technical University of Denmark](http://www.mek.dtu.dk/english)."
   location         : "Kgs. Lyngby, Denmark"
-  employer         :
-  googlescholar    : 
-  email            : gfs.reboucas@gmail.com
+  employer         : "Technical University of Denmark"
+  googlescholar    : "https://scholar.google.com/citations?user=pDb539YAAAAJ&hl=en"
+  email            : "gfs.reboucas@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/gfs.reboucas"
   foursquare       :
-  github           :
+  github           : "gfsReboucas"
   google_plus      :
   keybase          :
   instagram        :
@@ -111,6 +111,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  researchgate	   : "https://www.researchgate.net/profile/Geraldo_Reboucas"
 
 # Reading Files
 include:
