@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Mechanical Engineering, Technical University of Denmark, 2018 (expected)
+* M.Sc. in Mechanical Engineering, Federal University of Rio Grande do Norte, 2014
+* B.Sc. in Mechanical Engineering, Federal University of Rio Grande do Norte, 2011
 
 Work experience
 ======
