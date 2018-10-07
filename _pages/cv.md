@@ -11,14 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Mechanical Engineering, Technical University of Denmark, 2018 (expected)
-* M.Sc. in Mechanical Engineering, Federal University of Rio Grande do Norte, 2014
-* B.Sc. in Mechanical Engineering, Federal University of Rio Grande do Norte, 2011
+* Ph.D. in Mechanical Engineering, [Technical University of Denmark](http://www.mek.dtu.dk/english), 2018
+	* Thesis: Vibro-Impact Mechanics --- Analytical, Numerical and Experimental Investigations
+	* Responsibilities:
+		* Project and time management;
+	   	* Collect and analyze experimental data on structural vibrations;
+	   	* Comparison of different model formulations against experimental data;
+	   	* Model validation;
+	   	* Preparation of concise and detailed reports/articles;
+	   	* Dissemination of project findings;
+	* Achievements:
+		* Publication of 2 articles in international peer-reviewed journals;
+		* Oral presentations in 2 international scientific conferences;
+* M.Sc. in Mechanical Engineering, [Federal University of Rio Grande do Norte](http://www.ufrn.br/en), 2014
+	* Thesis: Stabilization of Unstable Periodic Orbits using Sliding Mode Control with Adaptive Compensation (in Portuguese)
+	* Courses:
+		* Finite Element Method;
+		* Linear and Nonlinear Optimization;
+		* Nonlinear Systems;
+		* Adaptive Control;
+		* Linear Control;
+		* Neural Networks
+* B.Sc. in Mechanical Engineering, [Federal University of Rio Grande do Norte](http://www.ufrn.br/en), 2011
+	* Activities:
+		* Teaching Assistant: Algorithms and object-oriented programming;
+		* Research Assistant: Modeling and analysis of nonlinear systems;
+		* Engineering internship: Maintenance sector of a medicine factory (NUPLAM);
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Aug/2013--Jun/2014: Assistant Professor (non-tenure)
+  * [Federal University of Rio Grande do Norte](http://www.ufrn.br/en);
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 

@@ -83,7 +83,6 @@ author:
   avatar           : "photo_031.jpg"
   bio              : "Mechanical Engineer, Ph.D. candidate at <a style='color: black;' href='http://www.mek.dtu.dk/english'>Technical University of Denmark</a>."
   location         : "Kgs. Lyngby, Denmark"
-  employer         : #"Technical University of Denmark"
   googlescholar    : "https://scholar.google.com/citations?user=pDb539YAAAAJ&hl=en"
   email            : "gfs.reboucas@gmail.com"
   linkedin         : "gfsreboucas"
@@ -112,6 +111,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  employer         : #"Technical University of Denmark"
   facebook         : #"gfs.reboucas"
   github           : #"gfsReboucas"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
