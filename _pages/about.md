@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "to be done..."
+title: "Geraldo Rebouças -- Mechanical Development Engineer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is Geraldo Rebouças' home on the web!
+# About
 
-under construction.
+I'm Geraldo, a Mechanical Engineer with a Ph.D. in Dynamics and Vibrations.
+
+This site is under construction.
