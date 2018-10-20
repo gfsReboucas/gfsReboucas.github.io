@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Summary
+======
+I am an engineer with a continuous-learning mindset, focused on achieving high-quality results. With a continuous interest to learn and improve my skill set, I am a self-motivated professional with a can-do attitude, working in teams or alone. I have a Ph.D. degree in Mechanical Engineering from DTU, working with modeling, analysis and experimental investigations on vibro-impact systems.
+My core **technical expertise** is on mechanical vibrations: modeling, analysis, and validation of mathematical models and experimental modal analysis (EMA).
+
 Education
 ======
 * **Ph.D. in Mechanical Engineering**, [Technical University of Denmark](http://www.mek.dtu.dk/english), 2018.
