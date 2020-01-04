@@ -4,9 +4,10 @@ collection: publications
 permalink: /publication/A1
 venue: "Journal of Sound and Vibration"
 date: 2017-11-16
-citation: "</b>G. F. S. Rebouças</b>, I. F. Santos, and J. J. Thomsen. Journal of Sound and Vibration 413 (2018) 291–307 [10.1016/j.jsv.2017.10.028](https://10.1016/j.jsv.2017.10.028)"
+citation: "</b>G. F. S. Rebouças</b>, I. F. Santos, and J. J. Thomsen. Journal of Sound and Vibration 413 (2018) 291–307 
 paperurl: "https://doi.org/10.1016/j.jsv.2017.10.028"
 ---
+
 ## Highlights
 - Comparison of three different impact force models.
 - Simple analytical frequency-amplitude relations are obtained and experimentally validated for the impact force models considered.
