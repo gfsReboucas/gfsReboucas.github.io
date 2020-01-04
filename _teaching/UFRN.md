@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/UFRN
 venue: "Federal University of Rio Grande do Norte – UFRN"
-date: 08-2013 to 06-2014
+date: 2013-2014
 location: "Natal, Brazil"
 ---
 
