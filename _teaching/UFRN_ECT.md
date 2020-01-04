@@ -4,11 +4,11 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/UFRN
 venue: "Federal University of Rio Grande do Norte – UFRN"
-date: 2013-2014
+date: 27-06-2014
 location: "Natal, Brazil"
 ---
 
-I worked as Assistant Professor\* at the [School of Science and Technology -- ECT](https://portal.ect.ufrn.br/) of [UFRN](https://www.ufrn.br/en) between August, 2013 and June, 2014.
+I worked as Assistant Professor\* at the [School of Science and Technology -- ECT](https://portal.ect.ufrn.br/) of [UFRN](https://www.ufrn.br/en) between August 2013 and June 2014.
 
 ### Activities:
 - Lecturing on bachelor courses with 30 to 120 students;
