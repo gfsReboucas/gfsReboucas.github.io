@@ -1,5 +1,5 @@
 ---
-title: "Stabilization of Unstable Periodic Orbits in Josephson Junctions"
+title: "Stabilization of Unstable Periodic Orbits in Josephson Junctions (<i>in Portuguese</i>)"
 collection: talks
 type: "Talk"
 permalink: /talks/CONEM_2012
