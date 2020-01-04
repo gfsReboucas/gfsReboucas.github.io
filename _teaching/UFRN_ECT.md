@@ -10,16 +10,16 @@ location: "Natal, Brazil"
 
 I worked as Assistant Professor\* at the [School of Science and Technology -- ECT](https://portal.ect.ufrn.br/) of [UFRN](https://www.ufrn.br/en) between August 2013 and June 2014.
 
-### Activities:
+## Activities:
 - Lecturing on bachelor courses with 30 to 120 students;
 - Preparation of assignments and evaluations;
 - Feedback on students’ performance;
 
-### Achievements:
+## Achievements:
 - Motivate students to keep going on their bachelors despite the challenges of higher education;
 - Provoke students to see their assignments as ways to develop engineering skills;
 
-#### Courses lectured:
+## Courses lectured:
 - Numerical Computing - ECT1303;
 - Fundamental Informatics - ECT1103;
 
