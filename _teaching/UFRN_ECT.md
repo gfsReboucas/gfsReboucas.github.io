@@ -2,7 +2,7 @@
 title: "Assistant Professor (<i>non-tenure</i>)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/UFRN
+permalink: /teaching/UFRN_ECT
 venue: "Federal University of Rio Grande do Norte – UFRN"
 date: 27-06-2014
 location: "Natal, Brazil"
