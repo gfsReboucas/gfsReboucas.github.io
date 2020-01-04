@@ -1,20 +1,24 @@
 ---
-title: "Teaching experience 1"
+title: "Assistant Professor (<i>non-tenure</i>)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/UFRN
+venue: "Federal University of Rio Grande do Norte – UFRN"
+date: 08-2013 to 06-2014
+location: "Natal, Brazil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I worked as Assistant Professor (_Professor Substituto_ in Portuguese) at the [School of Science and Technology -- ECT](https://portal.ect.ufrn.br/) of [UFRN](https://www.ufrn.br/en) between August, 2013 and June, 2014.
 
-Heading 1
-======
+# Activities:
+- Lecturing on bachelor courses with 30 to 120 students;
+- Preparation of assignments and evaluations;
+- Feedback on students’ performance;
 
-Heading 2
-======
+# Achievements:
+- Motivate students to keep going on their bachelors despite the challenges of higher education;
+- Provoke students to see their assignments as ways to develop engineering skills;
 
-Heading 3
-======
+# Courses lectured:
+- Numerical Computing - ECT1303;
+- Fundamental Informatics - ECT1103;
