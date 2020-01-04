@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/A1
 venue: "Journal of Sound and Vibration"
 date: 2017-11-16
-citation: "</b>G. F. S. Rebouças</b>, I. F. Santos, and J. J. Thomsen. Journal of Sound and Vibration 413 (2018) 291–307 
+citation: "<b>G. F. S. Rebouças</b>, I. F. Santos, and J. J. Thomsen. Journal of Sound and Vibration 413 (2018) 291–307"
 paperurl: "https://doi.org/10.1016/j.jsv.2017.10.028"
 ---
 
