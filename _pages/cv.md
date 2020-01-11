@@ -17,7 +17,7 @@ My core **technical expertise** is on mechanical vibrations: modeling, analysis,
 Education
 ======
 * **Ph.D. in Mechanical Engineering**, [Technical University of Denmark](http://www.mek.dtu.dk/english), 2018.
-	* Thesis: [_Vibro-Impact Mechanics --- Analytical, Numerical and Experimental Investigations_](gfsreboucas/phd_thesis).
+	* Thesis: [_Vibro-Impact Mechanics --- Analytical, Numerical and Experimental Investigations_](https://gfsreboucas/phd_thesis).
 	* Responsibilities:
 		* Project and time management;
 		* Collect and analyze experimental data on structural vibrations;
@@ -28,7 +28,7 @@ Education
 	* Achievements:
 		* Publication of 2 articles in international peer-reviewed journals;
 		* Oral presentations in 2 international scientific conferences;
-* **M.Sc. in Mechanical Engineering**, [Federal University of Rio Grande do Norte](http://www.ufrn.br/en), 2014.
+* **M.Sc. in Mechanical Engineering**, [Federal University of Rio Grande do Norte](https://www.ufrn.br/en), 2014.
 	* Thesis: _Stabilization of Unstable Periodic Orbits using Sliding Mode Control with Adaptive Compensation_ (in Portuguese).
 	* Courses:
 		* Finite Element Method;
@@ -74,14 +74,14 @@ Skills
 	* Resilient;
 	* Flexible;
 	* Self-motivated;
-#	* Self-driven;
-#	* Curious;
+	* Self-driven;
+	* Curious;
 	* Open minded;
 	* Positive attitude;
 	* Research;
 	* Writing;
 	* Organization;
-	* Systematic;-->
+	# * Systematic;-->
 
 * Software:
 	* MATLAB;
