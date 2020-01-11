@@ -113,4 +113,4 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer in conferences (e.g. [COBEM 2019](https://eventos.abcm.org.br/cobem2019/)) and [journal papers]({{ site.publons }});
+* Reviewer in conferences (e.g. [COBEM 2019](https://eventos.abcm.org.br/cobem2019/)) and [journal papers]({% site.publons %});
