@@ -112,8 +112,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-#  employer         : "<a style='color: black;' href='https://www.ntnu.edu/employees/geraldo.reboucas'>NTNU</a>"
-  employer         : "<a href='https://www.ntnu.edu/employees/geraldo.reboucas'>NTNU</a>"
+  employer         : (NTNU)[https://www.ntnu.edu/employees/geraldo.reboucas]
   facebook         : #"gfs.reboucas"
   github           : "gfsReboucas"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
