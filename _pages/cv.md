@@ -111,7 +111,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
 * Reviewer in conferences (e.g. [COBEM 2019](https://eventos.abcm.org.br/cobem2019/)) and [journal papers](https://www.publons.com/a/1476057/) (e.g. the [Journal of Vibration and Control](http://jvc.sagepub.com/));
-* [test 02]({% site.author.publons %});
+* [test 02]({{site.author.publons}});
