@@ -17,7 +17,7 @@ My core **technical expertise** is on mechanical vibrations: modeling, analysis,
 Education
 ======
 * **Ph.D. in Mechanical Engineering**, [Technical University of Denmark](http://www.mek.dtu.dk/english), 2018.
-	* Thesis: [_Vibro-Impact Mechanics --- Analytical, Numerical and Experimental Investigations_](https://gfsreboucas/phd_thesis).
+	* Thesis: [_Vibro-Impact Mechanics --- Analytical, Numerical and Experimental Investigations_](site.url/phd_thesis).
 	* Responsibilities:
 		* Project and time management;
 		* Collect and analyze experimental data on structural vibrations;
