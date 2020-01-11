@@ -16,7 +16,7 @@ My core **technical expertise** is on mechanical vibrations: modeling, analysis,
 
 Education
 ======
-* **Ph.D. in Mechanical Engineering**, [Technical University of Denmark](http://www.mek.dtu.dk/english), 2018.
+* **Ph.D. in Mechanical Engineering**, [Technical University of Denmark -- DTU](http://www.mek.dtu.dk/english), 2018.
 	* Thesis: [_Vibro-Impact Mechanics --- Analytical, Numerical and Experimental Investigations_]({% link phd_thesis.md %}).
 	* Responsibilities:
 		* Project and time management;
@@ -28,7 +28,7 @@ Education
 	* Achievements:
 		* Publication of 2 articles in international peer-reviewed journals;
 		* Oral presentations in 2 international scientific conferences;
-* **M.Sc. in Mechanical Engineering**, [Federal University of Rio Grande do Norte](https://www.ufrn.br/en), 2014.
+* **M.Sc. in Mechanical Engineering**, [Federal University of Rio Grande do Norte -- UFRN](https://www.ufrn.br/en), 2014.
 	* Thesis: _Stabilization of Unstable Periodic Orbits using Sliding Mode Control with Adaptive Compensation_ (in Portuguese).
 	* Courses:
 		* Finite Element Method;
@@ -37,7 +37,7 @@ Education
 		* Adaptive Control;
 		* Linear Control;
 		* Neural Networks
-* **B.Sc. in Mechanical Engineering**, [Federal University of Rio Grande do Norte](http://www.ufrn.br/en), 2011.
+* **B.Sc. in Mechanical Engineering**, [Federal University of Rio Grande do Norte -- UFRN](https://www.ufrn.br/en), 2011.
 	* Activities:
 		* Teaching Assistant: Algorithms and object-oriented programming;
 		* Research Assistant: Modeling and analysis of nonlinear systems;
@@ -113,4 +113,4 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer in conferences (e.g. (COBEM 2019)[https://eventos.abcm.org.br/cobem2019/]) and (journal papers)[{{ site.publons }}];
+* Reviewer in conferences (e.g. [COBEM 2019](https://eventos.abcm.org.br/cobem2019/)) and [journal papers]({{ site.publons }});
