@@ -45,8 +45,19 @@ Education
 
 Experience
 ======
-* Aug/2013--Jun/2014: **Assistant Professor (non-tenure)**.
-	* [Federal University of Rio Grande do Norte](http://www.ufrn.br/en);
+* Jun/2019--Present: **Postdoctoral Fellow**
+	* [Norwegian University of Science and Technology](https://www.ntnu.edu);
+	* [Marine System Dynamics and Vibration Lab](https://www.ntnu.edu/imt/lab/md-lab);
+	* Activities:
+		* Research on drivetrains for the offshore wind industry;
+		* How to obtain down-scaled versions of commercial gearboxes while maintaining its main characteristics (e.g. structural integrity and resonances);
+
+* Jul/2014--Oct/2018: **PhD researcher**
+	* [Technical University of Denmark -- DTU](http://www.mek.dtu.dk/english);
+	* __Description:__ Research on models for vibro-impact systems;
+
+* Aug/2013--Jun/2014: **Assistant Professor (non-tenure)**
+	* [Federal University of Rio Grande do Norte -- UFRN](http://www.ufrn.br/en);
 	* Activities:
 		* Lecturing on bachelor courses with 30 to 120 students;
 		* Preparation of assignments and evaluations;
@@ -103,12 +114,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service
