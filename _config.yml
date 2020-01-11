@@ -11,9 +11,10 @@ title                    : "Geraldo Rebouças"
 title_separator          : "-"
 name                     : &name "Geraldo Rebouças"
 description              : &description "Mechanical Development Engineer, PhD"
-url                      : https://gfsReboucas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : https://gfsReboucas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gfsReboucas.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "gfsReboucas/gfsReboucas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -111,9 +112,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  employer         : "<a style='color: black;' href='https://www.ntnu.edu/employees/geraldo.reboucas'>NTNU</a>"
+#  employer         : "<a style='color: black;' href='https://www.ntnu.edu/employees/geraldo.reboucas'>NTNU</a>"
+  employer         : "<a href='https://www.ntnu.edu/employees/geraldo.reboucas'>NTNU</a>"
   facebook         : #"gfs.reboucas"
-  github           : #"gfsReboucas"
+  github           : "gfsReboucas"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   twitter          : #"replacethistwitterhandle"
 
