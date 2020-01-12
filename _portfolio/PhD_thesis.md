@@ -1,8 +1,10 @@
 ---
 title: "Ph.D. thesis"
-excerpt: "Literature is full of models for the same phenomenon. Which of them is the most suitable for your problem?<br/><img src='/images/PhD_slides.gif' width='800' height='600'>"
+excerpt: "Literature is full of models for the same phenomenon. Which of them is the most suitable for your problem? I generated qualitative insights of experimental vibro-impact systems during my Ph.D. research, were I compared analytical and numerical results from different models to experimental data.<br/>
+<img src='/images/PhD_slides.gif' width='800' height='600'>"
 collection: portfolio
 ---
+
 
 <style>
     .responsive-wrap iframe{ max-width: 100%;}
@@ -11,6 +13,7 @@ collection: portfolio
 <div class="responsive-wrap">
     <iframe src="https://onedrive.live.com/embed?cid=B7FE94897B491732&resid=B7FE94897B491732%21763&authkey=AIWPMztU28zvF9U&em=2" width="800" height="600" frameborder="0" scrolling="no" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>    
 </div>
+
 
 The thesis can be downloaded for free [here](https://doi.org/10.11581/dtu:00000042).
 
