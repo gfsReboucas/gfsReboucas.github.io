@@ -7,3 +7,11 @@ venue: "4th International Conference on Vibro-Impact-Systems and Systems with Co
 date: 30-07-2018
 location: "Kassel, Germany"
 ---
+
+<style>
+    .responsive-wrap iframe{ max-width: 100%;}
+</style>
+
+<div class="responsive-wrap">
+    <iframe src="https://onedrive.live.com/embed?cid=B7FE94897B491732&resid=B7FE94897B491732%21768&authkey=AMHcEODJNTmMTHQ&em=2 width="402" height="327" frameborder="0" scrolling="no" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>    
+</div>
