@@ -14,15 +14,17 @@ collection: portfolio
 
 Download it for free [here](https://doi.org/10.11581/dtu:00000042).
 
-<p align="justify">
 Popular science summary
 ======
+<p align="justify">
 Roughly speaking, vibro-impacts are characterized by repeated collisions between objects or internal machine components whose movement is constrained by physical barriers, such as stops and clearances. This phenomenon is very common in engineering applications, being useful in some cases and problematic in others. While vibro-impacts can improve the performance of some devices, like concrete breakers, hammering, riveting and drilling devices, it also produces noise and wear in loose-joints, heat-exchangers and gear-pairs.
 
 The coefficient of restitution and contact forces are the most common ways to model vibro-impact systems. In this Ph.D. project, the advantages and disadvantages of those model approaches are discussed and compared against experimental observations. Different impact situations are tested experimentally, from hard unilateral impacts with tightened, neutral or loose gaps, to bilateral soft collisions. Common ground model comparisons are made by correlating analytical and numerical model predictions to experimental results. It is shown that both models are able to capture some important properties of vibro-impact systems, producing qualitative insight into their dynamic behavior.
+</p>
 
 Abstract
 ======
+<p align="justify">
 Vibro-impact phenomena are characterized by the occurrence of intermittent collisions between objects or internal machine components whose movement is constrained by physical barriers, such as stops and clearances. Vibro-impacts can enhance the effectiveness of hammering, riveting, and drilling applications, but are an undesirable phenomenon for loose joints, heat exchangers, and rotating machines, producing noise, wear and failure. Its applicability and relevance drive the continuous development of different model formulations and analytical/numerical solution schemes intended to reproduce specific experimental results or particular dynamic behavior.
 
 This Ph.D. thesis presents a detailed discussion of the most common model formulations for vibro-impact problems: contact force models and the coefficient of restitution, (CoR). Common ground comparisons are made by correlating analytical and numerical model predictions to experimental results. Different impact situations are tested experimentally, from hard unilateral impacts with tightened, neutral or loose gaps, to bilateral soft collisions. The experimental setup consists of a lumped mass cantilever beam with base-excitation provided by an electrodynamic shaker.
