@@ -1,6 +1,6 @@
 ---
 title: "Ph.D. thesis"
-excerpt: "Literature is full of models for the same phenomenon. Which of them is the most suitable for your problem? I generated qualitative insights of experimental vibro-impact systems during my Ph.D. research, were I compared analytical and numerical results from different models to experimental data.<br/>
+excerpt: "Literature is full of models for the same phenomenon. Which of them is the most suitable for your problem?<br/>I generated qualitative insights about experimental vibro-impact systems by comparing analytical and numerical results from different models to experimental data.<br/>
 <img src='/images/PhD_slides.gif' width='800' height='600'>"
 collection: portfolio
 ---
