@@ -15,5 +15,5 @@ Presented at the [4th International Conference on Vibro-Impact-Systems and Syste
 </style>
 
 <div class="responsive-wrap">
-    <iframe src="https://onedrive.live.com/embed?cid=B7FE94897B491732&resid=B7FE94897B491732%21768&authkey=AMHcEODJNTmMTHQ&em=2 width="402" height="327" frameborder="0" scrolling="no" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>    
+    <iframe src="https://onedrive.live.com/embed?cid=B7FE94897B491732&resid=B7FE94897B491732%21768&authkey=AMHcEODJNTmMTHQ&em=2" width="402" height="327" frameborder="0" scrolling="no" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>    
 </div>
