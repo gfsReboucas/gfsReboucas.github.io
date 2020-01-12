@@ -8,6 +8,8 @@ date: 30-07-2018
 location: "Kassel, Germany"
 ---
 
+Presented at the [4th International Conference on Vibro-Impact-Systems and Systems with Contact and Friction (ICoVIS2018)](http://www.itm.kit.edu/icovis2018/88.php) in Kassel, Germany.
+
 <style>
     .responsive-wrap iframe{ max-width: 100%;}
 </style>
