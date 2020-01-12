@@ -1,6 +1,6 @@
 ---
-title: "PhD thesis"
-excerpt: "More details regarding my PhD work.<br/><img src='/images/PhD_slides.gif'>"
+title: "Ph.D. thesis"
+excerpt: "Literature is full of models for the same phenomenon. Which of them is the most suitable for your problem?<br/><img src='/images/PhD_slides.gif' width='800' height='600'>"
 collection: portfolio
 ---
 
@@ -9,7 +9,7 @@ collection: portfolio
 </style>
 
 <div class="responsive-wrap">
-    <iframe src="https://onedrive.live.com/embed?cid=B7FE94897B491732&resid=B7FE94897B491732%21763&authkey=AIWPMztU28zvF9U&em=2" width="402" height="327" frameborder="0" scrolling="no" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>    
+    <iframe src="https://onedrive.live.com/embed?cid=B7FE94897B491732&resid=B7FE94897B491732%21763&authkey=AIWPMztU28zvF9U&em=2" width="800" height="600" frameborder="0" scrolling="no" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>    
 </div>
 
 The thesis can be downloaded for free [here](https://doi.org/10.11581/dtu:00000042).
