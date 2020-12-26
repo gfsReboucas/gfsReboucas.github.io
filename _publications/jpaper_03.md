@@ -8,13 +8,7 @@ citation: "<b>G. F. S. Rebouças</b>, A. R. Nejad. Journal of Physics: Conferenc
 paperurl: "https://doi.org/10.1088/1742-6596/1618/5/052008"
 ---
 
-<style>
-    .responsive-wrap iframe{ max-width: 100%;}
-</style>
-
-<div class="responsive-wrap">
-	<iframe src="https://onedrive.live.com/embed?cid=B7FE94897B491732&resid=B7FE94897B491732%211165&authkey=AHv68k6CxIbjNTM&em=2" width="402" height="327" frameborder="0" scrolling="no" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
+This work was presented in an online poster session at the [Torque 2020 Conference](https://www.torque2020.org/) in Delft, The Netherlands. See the poster [here](/talks/TORQUE_2020).
 
 ## Highlights
 - Development of a step by step method to down-scale industrial geared drivetrains, while preserving its core properties (resonance distribution and gear structural integrity).
