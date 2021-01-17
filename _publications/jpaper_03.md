@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/A3
 venue: 'Journal of Physics: Conference Series'
 date: 2020-09-28
-citation: "<b>G. F. S. Rebouças</b>, A. R. Nejad. Journal of Physics: Conference Series 440 (2019) 346-371"
+citation: "<b>G. F. S. Rebouças</b>, A. R. Nejad. Journal of Physics: Conference Series 440 (2020)"
 paperurl: "https://doi.org/10.1088/1742-6596/1618/5/052008"
 ---
 
