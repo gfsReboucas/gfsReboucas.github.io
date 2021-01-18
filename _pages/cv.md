@@ -23,8 +23,8 @@ Experience
 		* Analysis and sizing of drivetrains for the offshore wind industry
 		* Fatigue, vibration, and safety analyses
 	* Achievements:
-		* Development of methodology for gearbox down-scaling
-		* Development of methodology for stress estimation in gearboxes
+		* [Development of methodology for gearbox down-scaling](/publication/A3)
+		* [Development of methodology for stress estimation in gearboxes](/publication/A4)
 		* Results published at international peer-reviewed conferences
 * Jul/2014--Oct/2018: **Ph.D. researcher**
 	* [Technical University of Denmark -- DTU](http://www.mek.dtu.dk/english)
@@ -100,21 +100,20 @@ Skills
 	* Writing
 
 * Software:
-	* [https://mathworks.com/products/matlab.html](MATLAB)
-	* [https://www.3ds.com/products-services/simulia/products/simpack/](Simpack)
-	* [https://www.kisssoft.com/en](KISSsoft)
-	* [https://www.solidworks.com/](SOLIDWORKS)
-	* [https://www.autodesk.com/products/autocad/](AutoCAD)
-	* [https://www.office.com/](Microsoft Office)
-	* [https://www.microsoft.com/en-us/windows](Windows)
-	* [https://www.linux.org/](Linux)
-	* [https://www.python.org/](Python)
-	* [https://isocpp.org/](C/C++)
-	* [https://www.latex-project.org/](LaTeX)
-	* [https://git-scm.com/](Git)
+	* [MATLAB](https://mathworks.com/products/matlab.html)
+	* [Simpack](https://www.3ds.com/products-services/simulia/products/simpack/)
+	* [KISSsoft](https://www.kisssoft.com/en)
+	* [SOLIDWORKS](https://www.solidworks.com/)
+	* [AutoCAD](https://www.autodesk.com/products/autocad/)
+	* [Python](https://www.python.org/)
+	* [C/C++](https://isocpp.org/)
+	* [Git](https://git-scm.com/)
+	* [Linux](https://www.linux.org/)
+	* [LaTeX](https://www.latex-project.org/)
+	* [Microsoft Office](https://www.office.com/)
 
 * Hardware:
-	* Signal conditioners, transducers, data acquisition systems and shakers from several manufacturers, e. g. [https://www.bksv.com/en](Br{\"u}el \& Kj{\ae}r) and [https://www.dspace.com/en/inc/home/products/sw/experimentandvisualization/controldesk.cfm](dSPACE/ControlDesk).
+	* During my Ph.D., I have worked with signal conditioners, transducers, data acquisition systems and shakers from several manufacturers, e. g. [Brüel & Kjær](https://www.bksv.com/en) and [dSPACE/ControlDesk](https://www.dspace.com/en/inc/home/products/sw/experimentandvisualization/controldesk.cfm)
 
 Publications
 ======
