@@ -10,10 +10,14 @@ Despite the widespread use of scaled models in the wind industry and engineering
 
 <figure>
   <img src="{{site.url}}/images/projects/DT_comparison.png" alt="Cross-scale gearbox comparison"/>
-  <figcaption>Schematics of WT gearboxes with different rated power (5000 kW to 0.5 kW) but similar safety factors and resonance distribution. red: sun/pinion gears; blue: planet/wheel gears; green: ring gear; orange: planet carrier; brown: main shaft; yellow: output shafts for each gear stage.</figcaption>
+  <figcaption>Schematics of WT gearboxes with different rated power (5000 kW to 0.5 kW) but similar safety factors and resonance distribution. 
+  <span style="background-color:rgb(230, 049, 051)">red: sun/pinion gears;</span> 
+  <span style="background-color:rgb(075, 139, 191)">blue: planet/wheel gears;</span> 
+  <span style="background-color:rgb(095, 183, 092)">green: ring gear;</span> 
+  <span style="background-color:rgb(255, 140, 026)">orange: planet carrier;</span> 
+  <span style="background-color:rgb(175, 103, 061)">brown: main shaft;</span> 
+  <span style="background-color:rgb(221, 207, 110)">yellow: output shafts</span> for each gear stage.</figcaption>
 </figure>
-
-{% include image.html url="/images/projects/DT_comparison.png" description="Schematics of WT gearboxes with different rated power (5000 kW to 0.5 kW) but similar safety factors and resonance distribution. red: sun/pinion gears; blue: planet/wheel gears; green: ring gear; orange: planet carrier; brown: main shaft; yellow: output shafts for each gear stage." %}
 
 The effects of gear parameters on safety factors are evaluated with [KISSsoft](https://www.kisssoft.com/en), while [MATLAB](https://mathworks.com/products/matlab.html)’s root-finding and optimization methods are used to find appropriate scaling factors. Both software are used in a structured form, combining their main characteristics.
 
