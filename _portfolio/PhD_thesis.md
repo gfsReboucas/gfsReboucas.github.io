@@ -7,7 +7,6 @@ permalink: /portfolio/PhD_thesis
 
 ---
 
-
 <style>
     .responsive-wrap iframe{ max-width: 100%;}
 </style>
@@ -15,7 +14,6 @@ permalink: /portfolio/PhD_thesis
 <div class="responsive-wrap">
     <iframe src="https://onedrive.live.com/embed?cid=B7FE94897B491732&resid=B7FE94897B491732%21763&authkey=AIWPMztU28zvF9U&em=2" width="800" height="600" frameborder="0" scrolling="no" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>    
 </div>
-
 
 The thesis can be downloaded for free [here](https://doi.org/10.11581/dtu:00000042).
 

@@ -2,17 +2,15 @@
 title: "Design of experiments for nonlinear phenomena analysis"
 excerpt: ""
 collection: portfolio
-permalink: /portfolio/down_scaling
+permalink: /portfolio/design_exp
 
 ---
 
-\subsection{}
 <p align="justify">
 To observe and understand different aspects of vibro-impacting systems, I have planned different experimental campaigns during my Ph.D. work. This experience can be useful while testing different aspects of new prototypes or troubleshooting critical systems, reproducing unexpected machine behavior.
 </p>
 
 {% include image.html url="/images/500x300.png" description="Various versions of the experimental setup. (a) with contacts on the beam and magnetic actuators on the lumped mass. (b) with unilateral contacts at the lumped mass. (c) with unilateral impacting spring at the lumped mass." %}
-
 ![beam_config](/images/500x300.png)
 *Various versions of the experimental setup. (a) with contacts on the beam and magnetic actuators on the lumped mass. (b) with unilateral contacts at the lumped mass. (c) with unilateral impacting spring at the lumped mass.*
 <p align="justify">
