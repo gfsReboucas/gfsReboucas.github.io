@@ -8,7 +8,10 @@ permalink: /portfolio/bearing_params
 
 Wind turbine gearboxes are exposed to dynamic and time-varying loads, which affect the useful life of their components. In fact, some designers believe that fatigue is the dominant factor in gearbox projects. Thus, the next step in the [gearbox down-scaling project](/portfolio/down_scaling) is to down-scale the machine without modifying its fatigue damage level.
 
-{% include image.html url="/images/500x300.png" description="3D scatter plot of tapered roller bearing parameters (blue dots) and its fitted polynomial (red dots), given by $C =k_1 D^2 + k_2 D B$ , where $C$ is the dynamic load rating, $D$ is the external diameter, $B$ is the thickness, and $k_1$ and $k_2$ are fitting parameters. All parameters are normalized for visualization purposes." %}
+<figure>
+  <img src="{{site.url}}/images/500x300.png" alt="Bearing data"/>
+  <figcaption>3D scatter plot of tapered roller bearing parameters (blue dots) and its fitted polynomial (red dots), given by $C =k_1 D^2 + k_2 D B$ , where $C$ is the dynamic load rating, $D$ is the external diameter, $B$ is the thickness, and $k_1$ and $k_2$ are fitting parameters. All parameters are normalized for visualization purposes.</figcaption>
+</figure>
 
 The research work associated with this project is still __under development and has not been published yet__. It involves analyzing some key parameters of rolling bearings, such as their dynamic load rating, and its relationship with bearing geometry. The dynamic load rating is one of the main factors for bearing selection and fatigue calculations and it is chosen as the main parameter for bearing scaling. Bearing parameters were obtained from [KISSsoft](https://www.kisssoft.com/en) and analyzed in [MATLAB](https://mathworks.com/products/matlab.html), showing reasonable agreement between data and fitting results as shown in the figure above.
 
