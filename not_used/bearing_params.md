@@ -14,5 +14,4 @@ The research work associated with this project is still __under development and 
 
 I obtained a deeper understanding of complex machinery and its main components while working with gearboxes. The analyses at component level and at gearbox level gave me a better systematic view of the behavior of complex machinery. Load estimation and fatigue calculations for bearings and gears are now part of my skillset and can be useful while analyzing other types of machinery.
 
-{% include image.html url="/images/500x300.png" description="Test of caption with colored background. 
-<span style="background-color:rgb(230, 049, 051)">red</span>." %}
+{% include image.html url="/images/500x300.png" description="Test of caption with colored background." %}
