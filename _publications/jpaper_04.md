@@ -5,6 +5,7 @@ permalink: /publication/A4
 venue: 'Forschung im Ingenieurwesen'
 date: 2021-03-11
 citation: "F. K. Moghadam, <b>G. F. S. Rebouças</b>, A. R. Nejad. Forschung im Ingenieurwesen"
+paperurl: "https://doi.org/10.1007/s10010-021-00468-9"
 ---
 
 This work was submitted to the [5th Conference for Wind Power Drives CWD 2021](https://express.converia.de/frontend/index.php?folder_id=3133) held online in March 2021.
