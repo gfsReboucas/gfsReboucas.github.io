@@ -16,7 +16,10 @@ My core **technical expertise** is on mechanical vibrations: modeling, analysis,
 
 Experience
 ======
-* Jun/2019--Present: **Postdoctoral Fellow**
+* Dec/2021--May/2025: **Product Development Engineer**
+	*[Brudeli Green Mobility AS](https://brudeli.no/)
+
+* Jun/2019--May/2021: **Postdoctoral Fellow**
 	* [Norwegian University of Science and Technology](https://www.ntnu.edu)
 	* [Marine System Dynamics and Vibration Lab](https://www.ntnu.edu/imt/lab/md-lab)
 	* Research and development on gearboxes and related components including:
@@ -101,13 +104,13 @@ Skills
 
 * Software:
 	* [MATLAB](https://mathworks.com/products/matlab.html)
-	* [Simpack](https://www.3ds.com/products-services/simulia/products/simpack/)
-	* [KISSsoft](https://www.kisssoft.com/en)
+	* [Python](https://www.python.org/)
 	* [SOLIDWORKS](https://www.solidworks.com/)
 	* [AutoCAD](https://www.autodesk.com/products/autocad/)
-	* [Python](https://www.python.org/)
-	* [C/C++](https://isocpp.org/)
+	* [Simpack](https://www.3ds.com/products-services/simulia/products/simpack/)
+	* [KISSsoft](https://www.kisssoft.com/en)
 	* [Git](https://git-scm.com/)
+	* [C/C++](https://isocpp.org/)
 	* [Linux](https://www.linux.org/)
 	* [LaTeX](https://www.latex-project.org/)
 	* [Microsoft Office](https://www.office.com/)
