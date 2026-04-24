@@ -1,55 +1,50 @@
 ---
 title: "Down-Scaled Modeling of Wind Turbine Gearboxes"
-excerpt: "Reduced-order gearbox models preserving safety factors and dynamic behavior across scales"
+excerpt: "Case study: preserving safety factors and drivetrain dynamics across gearbox scales"
 collection: portfolio
 permalink: /portfolio/down_scaling
 ---
 
-## Down-Scaled Modeling of Wind Turbine Gearboxes
+## Case Study: Down-Scaled Modeling of Wind Turbine Gearboxes
 
 ### Purpose
-Testing full-scale wind turbine gearboxes is expensive and logistically challenging.  
-This project focused on developing a methodology to create down-scaled gearbox models that preserve both structural integrity and dynamic behavior, enabling more efficient testing and analysis.
+Full-scale wind turbine gearbox testing is expensive and difficult to iterate quickly.  
+This work developed a structured down-scaling method to create compact gearbox models while preserving key design and dynamic characteristics required for engineering decisions.
 
 ### Approach
-I developed a structured scaling methodology for multi-stage wind turbine gearboxes, ensuring that key characteristics are maintained across different power levels:
+The workflow separates scaling targets by function and constraint, then applies parameter scaling with iterative checks:
 
-- Gear safety factors (based on ISO 6336)  
-- Resonance and frequency distribution  
-- Structural and dynamic consistency  
+- Structural integrity targets (gear safety factors using ISO 6336)
+- Dynamic targets (resonance distribution and drivetrain response)
+- Practical design constraints for manufacturability and testability
 
-The scaling process separates parameters based on their influence on:
-- Mechanical integrity  
-- Dynamic response  
-
-A step-by-step procedure was implemented to compute appropriate scaling factors and allow fine-tuning of the resulting designs.
+A repeatable, step-by-step process was implemented to compute scale factors, update geometry and loading, and verify behavior at each iteration.
 
 <figure>
   <img src="{{site.url}}/images/projects/DT_comparison.png" alt="Cross-scale gearbox comparison"/>
   <figcaption>
-  Wind turbine gearboxes across scales (5000 kW to 0.5 kW) with preserved safety factors and dynamic characteristics.
+  Wind turbine gearboxes across scales (5000 kW to 0.5 kW) with matched safety factors and comparable dynamic signatures.
   </figcaption>
 </figure>
 
 ### Key Results
-- Achieved gearbox models with **similar safety factors and resonance distribution** (within ~5% deviation) across multiple scales  
-- Enabled realistic representation of large-scale drivetrain behavior using compact test setups  
-- Provided a systematic framework for scaling complex multi-stage gear systems  
+- Reproduced safety factors and resonance trends with deviations around 5% across evaluated scales
+- Reduced dependence on full-scale test infrastructure for early validation work
+- Established a reusable method for scaling multi-stage gearbox concepts
 
 ### Engineering Value
-This work enables:
-- Cost-effective experimental testing of wind turbine drivetrains  
-- Faster iteration in gearbox design and validation  
-- Improved understanding of dynamic behavior without full-scale infrastructure  
+- Enables faster concept screening for drivetrain architectures
+- Supports lower-cost validation planning and risk reduction
+- Improves confidence when extrapolating scaled-test results to larger systems
 
 ### Implementation
-- Gear safety factors evaluated using KISSsoft (ISO 6336)  
-- Scaling and optimization implemented in MATLAB  
-- Automated workflow using COM interface between MATLAB and KISSsoft  
-- Object-oriented structure for modular and reusable modeling  
+- Safety factor evaluation in KISSsoft (ISO 6336)
+- Scaling and optimization logic in MATLAB
+- Automated data exchange between MATLAB and KISSsoft via COM interface
+- Modular object-oriented structure to support reuse across cases
 
 ### Tools
-MATLAB · KISSsoft · Simpack (context) · COM interface integration
+MATLAB · KISSsoft · Simpack (context models) · COM automation
 
 ### References
-[**Rebouças** and Nejad, 2020)](/publication/A3)
+[**Rebouças** and Nejad, 2020](/publication/A3)
