@@ -1,24 +1,55 @@
 ---
-title: "Down-scaled modelling of Wind Turbine Gearboxes"
-excerpt: "Down-scaling a 5 MW WT gearbox to 0.5 kW while keeping the same safety level and frequency distribution"
+title: "Down-Scaled Modeling of Wind Turbine Gearboxes"
+excerpt: "Reduced-order gearbox models preserving safety factors and dynamic behavior across scales"
 collection: portfolio
 permalink: /portfolio/down_scaling
-
 ---
 
-Despite the widespread use of scaled models in the wind industry and engineering in general, gearboxes are tested at full scale in specialized facilities, leading to expensive and restrictive tests. These problems can be mitigated with appropriate down-scaled gearboxes as the ones shown in the figure below. The 4 gearboxes at the top have similar safety factors and resonance distribution (max. 5% relative deviation) as the reference gearbox at the bottom. These results were obtained with a step-by-step procedure in which the parameters to be scaled are divided according to their relation to the gearbox’s integrity and dynamic behavior. The method, which is described in [(Rebouças and Nejad, 2020)](/publication/A3), allows for fine-tuning once an overall scaling has been done.
+## Down-Scaled Modeling of Wind Turbine Gearboxes
+
+### Purpose
+Testing full-scale wind turbine gearboxes is expensive and logistically challenging.  
+This project focused on developing a methodology to create down-scaled gearbox models that preserve both structural integrity and dynamic behavior, enabling more efficient testing and analysis.
+
+### Approach
+I developed a structured scaling methodology for multi-stage wind turbine gearboxes, ensuring that key characteristics are maintained across different power levels:
+
+- Gear safety factors (based on ISO 6336)  
+- Resonance and frequency distribution  
+- Structural and dynamic consistency  
+
+The scaling process separates parameters based on their influence on:
+- Mechanical integrity  
+- Dynamic response  
+
+A step-by-step procedure was implemented to compute appropriate scaling factors and allow fine-tuning of the resulting designs.
 
 <figure>
   <img src="{{site.url}}/images/projects/DT_comparison.png" alt="Cross-scale gearbox comparison"/>
-  <figcaption>Schematics of WT gearboxes with different rated power (5000 kW to 0.5 kW) but similar safety factors and resonance distribution. 
-  <span style="background-color:rgb(230, 049, 051)">red: sun/pinion gears;</span> 
-  <span style="background-color:rgb(075, 139, 191)">blue: planet/wheel gears;</span> 
-  <span style="background-color:rgb(095, 183, 092)">green: ring gear;</span> 
-  <span style="background-color:rgb(255, 140, 026)">orange: planet carrier;</span> 
-  <span style="background-color:rgb(175, 103, 061)">brown: main shaft;</span> 
-  <span style="background-color:rgb(221, 207, 110)">yellow: output shafts</span> for each gear stage.</figcaption>
+  <figcaption>
+  Wind turbine gearboxes across scales (5000 kW to 0.5 kW) with preserved safety factors and dynamic characteristics.
+  </figcaption>
 </figure>
 
-The effects of gear parameters on safety factors are evaluated with [KISSsoft](https://www.kisssoft.com/en), while [MATLAB’s](https://mathworks.com/products/matlab.html) root-finding and optimization methods are used to find appropriate scaling factors. Both software are used in a structured form, combining their main characteristics.
+### Key Results
+- Achieved gearbox models with **similar safety factors and resonance distribution** (within ~5% deviation) across multiple scales  
+- Enabled realistic representation of large-scale drivetrain behavior using compact test setups  
+- Provided a systematic framework for scaling complex multi-stage gear systems  
 
-This project is a good opportunity to develop myself within gear calculations and software development practices. Using an object-oriented approach, I obtained a better understanding of gear safety calculation while implementing some parts of the [ISO 6336](https://www.iso.org/standard/63819.html) standard for estimating the pitting safety factors of planetary and parallel gear stages. I use [KISSsoft's](https://www.kisssoft.com/en) COM interface to control it using [MATLAB](https://mathworks.com/products/matlab.html). These abilities combined give me the expertise to develop robust analysis and design simulation tools for gears and other machine elements in a concise and integrated perspective.
+### Engineering Value
+This work enables:
+- Cost-effective experimental testing of wind turbine drivetrains  
+- Faster iteration in gearbox design and validation  
+- Improved understanding of dynamic behavior without full-scale infrastructure  
+
+### Implementation
+- Gear safety factors evaluated using KISSsoft (ISO 6336)  
+- Scaling and optimization implemented in MATLAB  
+- Automated workflow using COM interface between MATLAB and KISSsoft  
+- Object-oriented structure for modular and reusable modeling  
+
+### Tools
+MATLAB · KISSsoft · Simpack (context) · COM interface integration
+
+### References
+[**Rebouças** and Nejad, 2020)](/publication/A3)

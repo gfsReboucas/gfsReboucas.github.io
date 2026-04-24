@@ -8,10 +8,24 @@ redirect_from:
   - /about.html
 ---
 
+Using simulation to understand and optimize complex engineering systems
+
 # About
 
-My name is Geraldo, I am an R&D Engineer working on developing the next generation of mechanical equipment (machines or structures) using mathematical modeling and analytical, numerical, and experimental analysis tools. Throughout my career, I  have been generating insights into the behavior of mechanical systems via a balanced combination of reasoning, modeling, and data analysis. I am a Postdoctoral fellow at [NTNU](https://www.ntnu.edu/imt/lab/md-lab) in Norway working with maritime machinery, with emphasis on gearboxes for the wind industry and more recently on reciprocating compressors.
+I am a Senior Analysis Engineer specializing in modeling and simulation of drivetrain and energy systems.
+
+My work focuses on understanding the behavior of complex mechanical systems and supporting engineering decisions through physics-based modeling, numerical simulation, and data analysis.
+
+I have developed simulation frameworks for hybrid and conventional truck powertrains, as well as reduced-order models for wind turbine drivetrains. These models are used to evaluate system performance, analyze trade-offs, and support design and operational strategies.
+
+My approach combines engineering reasoning with computational tools to bridge the gap between detailed physical models and practical, decision-oriented analysis.
 
 # Background
 
-I have extensive education in Mechanical Engineering, with a Ph.D. from [DTU](https://www.mek.dtu.dk/english) in Denmark and masters and bachelors degrees from [UFRN](https://www.ufrn.br/en) in Brazil. During this time I have researched nonlinear vibrations. [At DTU, I investigated the advantages and shortcomings of different models and assumptions for vibro-impacting systems, against experimental observations.](/portfolio/PhD_thesis) At UFRN, I worked on the stabilization of unstable states in chaotic mechanical systems using sliding mode control. After my Ph.D., I started working at NTNU, where [I am developing methodologies for cheaper testing of wind turbine gearboxes and components via down-scaled modeling procedures.](/publication/A3)
+I hold a PhD in Mechanical Engineering from DTU (Technical University of Denmark), with earlier degrees from UFRN (Brazil).
+
+My research background is in nonlinear mechanics, where I combined experimental, numerical, and analytical methods to study vibro-impact systems and understand differences between models and real-world behavior.
+
+Following my PhD, I worked on drivetrain systems for offshore wind turbines, developing modeling approaches for gearbox dynamics, fatigue, and reduced-order simulation. I later transitioned to hybrid truck powertrains, applying system-level modeling to analyze energy usage, efficiency, and techno-economic performance.
+
+This progression reflects a shift from fundamental mechanics to applied engineering problems in energy and machinery systems.

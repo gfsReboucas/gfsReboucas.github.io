@@ -9,145 +9,130 @@ redirect_from:
 
 {% include base_path %}
 
-Summary
-======
-I am an engineer with a continuous-learning mindset, focused on achieving high-quality results. With a continuous interest to learn and improve my skill set, I am a self-motivated professional with a can-do attitude, working in teams or alone. I have a Ph.D. degree in Mechanical Engineering from DTU, working with modeling, analysis and experimental investigations on vibro-impact systems.
-My core **technical expertise** is on mechanical vibrations: modeling, analysis, and validation of mathematical models and experimental modal analysis (EMA).
+# Geraldo Rebouças
 
-Experience
-======
-* Dec/2021--May/2025: **Product Development Engineer**
-	*[Brudeli Green Mobility AS](https://brudeli.no/)
+**Senior Analysis Engineer – Drivetrain & Energy Systems, PhD**
 
-* Jun/2019--May/2021: **Postdoctoral Fellow**
-	* [Norwegian University of Science and Technology](https://www.ntnu.edu)
-	* [Marine System Dynamics and Vibration Lab](https://www.ntnu.edu/imt/lab/md-lab)
-	* Research and development on gearboxes and related components including:
-		* Analysis and sizing of drivetrains for the offshore wind industry
-		* Fatigue, vibration, and safety analyses
-	* Achievements:
-		* [Development of methodology for gearbox down-scaling](/publication/A3)
-		* [Development of methodology for stress estimation in gearboxes](/publication/A4)
-		* Results published at international peer-reviewed conferences
-* Jul/2014--Oct/2018: **Ph.D. researcher**
-	* [Technical University of Denmark -- DTU](http://www.mek.dtu.dk/english)
-	* Research on nonlinear vibrations in mechanical systems
-	* Teaching assistant on master course [Dynamics of machinery](https://kurser.dtu.dk/course/41514)
-	* Collect and analyze experimental data on structural vibrations
-	* Achievements:
-		* [Produced qualitative insights on the behavior of mechanical systems](/publication/A2)
-		* [Comparison of the most common models for vibro-impact systems](/publication/A1)
-		* [Results published and presented orally in international peer-reviewed journals and conferences](/portfolio/PhD_thesis)
-	* _OBS.: Ph.Ds are considered working positions in Scandinavia_
+---
 
-* Aug/2013--Jun/2014: **Assistant Professor (non-tenured)**
-	* [Federal University of Rio Grande do Norte -- UFRN](http://www.ufrn.br/en)
-	* [School of Science and Technology -- ECT](https://www.ect.ufrn.br/)
-	* Activities:
-		* Lecturing on bachelor courses with 30 to 120 students
-		* Preparation of assignments and evaluations
-		* Feedback on students’ performance
-		* Mentoring and motivating students
-	* Courses taught:
-		* ECT1103 - Fundamental Computing
-		* ECT1303 - Numerical Computing
-  
-Education
-======
-* **Ph.D. in Mechanical Engineering**, [Technical University of Denmark -- DTU](http://www.mek.dtu.dk/english), 2018.
-	* Thesis: [_Vibro-Impact Mechanics --- Analytical, Numerical and Experimental Investigations_]({% link phd_thesis.md %}).
-	* Courses:
-		* [Advanced vibration and stability analysis](https://kurser.dtu.dk/course/41522)
-		* [Dynamics of machinery](https://kurser.dtu.dk/course/41514)
-		* [Uncertainty and Sensitivity Analysis of Numerical Models](https://kurser.dtu.dk/course/28923)
-		* Experimental Nonlinear Rotor Dynamics (special Ph.D. course)
-		* Experimental Nonlinear Structural Dynamics (special Ph.D. course)
+## Summary
+Senior Analysis Engineer with 10+ years of experience in modeling and simulation of complex machinery and energy systems, with a focus on drivetrain dynamics in wind turbines and hybrid trucks.
 
-* **M.Sc. in Mechanical Engineering**, [Federal University of Rio Grande do Norte -- UFRN](https://www.ufrn.br/en), 2014.
-	* Thesis: _Stabilization of Unstable Periodic Orbits using Sliding Mode Control with Adaptive Compensation_ (in Portuguese).
-	* Courses:
-		* Finite Element Method
-		* Linear and Nonlinear Optimization
-		* Nonlinear Systems
-		* Adaptive Control
-		* Linear Control
-		* Neural Networks
-* **B.Sc. in Mechanical Engineering**, [Federal University of Rio Grande do Norte -- UFRN](https://www.ufrn.br/en), 2011.
-	* Activities:
-		* Teaching Assistant: Algorithms and object-oriented programming
-		* Research Assistant: Modeling and analysis of nonlinear systems
-		* Engineering internship: Maintenance sector of a medicine factory (NUPLAM)
+Expertise in physics-based modeling, numerical simulation, and data analysis to evaluate system behavior under realistic operating conditions and support engineering decisions. Proven track record in developing computationally efficient models aligned with high-fidelity simulations, enabling faster and more practical engineering workflows.
 
-Skills
-======
-* Technical:
-	* Experimental testing
-	* Model validation
-	* Modelling, Analysis, and Tuning of Mechanical Systems
-	* Instrumentation
-	* Signal Analysis
-	* Numerical Simulations
-	* Programming
-	* Experimental Modal Analysis (EMA)
+Core areas include system-level modeling, drivetrain analysis, and techno-economic evaluation (TCO, ROI, RUL).
 
-* Personal:
-	* Teamwork
-	* Critical thinking
-	* Self-learning
-	* Resilient
-	* Flexible
-	* Self-motivated
-	* Open minded
-	* Positive attitude
-	* Research
-	* Writing
+---
 
-* Software:
-	* [MATLAB](https://mathworks.com/products/matlab.html)
-	* [Python](https://www.python.org/)
-	* [SOLIDWORKS](https://www.solidworks.com/)
-	* [AutoCAD](https://www.autodesk.com/products/autocad/)
-	* [Simpack](https://www.3ds.com/products-services/simulia/products/simpack/)
-	* [KISSsoft](https://www.kisssoft.com/en)
-	* [Git](https://git-scm.com/)
-	* [C/C++](https://isocpp.org/)
-	* [Linux](https://www.linux.org/)
-	* [LaTeX](https://www.latex-project.org/)
-	* [Microsoft Office](https://www.office.com/)
+## Experience
 
-* Hardware:
-	* During my Ph.D., I have worked with signal conditioners, transducers, data acquisition systems and shakers from several manufacturers, e. g. [Brüel & Kjær](https://www.bksv.com/en) and [dSPACE/ControlDesk](https://www.dspace.com/en/inc/home/products/sw/experimentandvisualization/controldesk.cfm)
+### Product Development Engineer
 
-Publications
-======
+[**Brudeli Green Mobility AS**](https://brudeli.no/)
+*Dec 2021 – May 2025*
+
+Developed simulation and analysis frameworks for hybrid, electric, and combustion truck powertrains to evaluate system performance and support design decisions.
+
+* Modeled energy flow and component behavior (engine, battery, electric motors) using physics-based simulations (MATLAB/Simulink)
+* Performed techno-economic analysis (TCO, ROI) to compare powertrain concepts and support decision-making
+* Conducted sensitivity analyses on fuel, electricity, and battery costs to evaluate system trade-offs
+* Developed power management strategies for a patented hybrid powertrain architecture
+* Optimized system configurations by integrating simulation outputs across multiple operating scenarios
+
+---
+
+### Postdoctoral Fellow
+
+[**Norwegian University of Science and Technology (NTNU)**](https://www.ntnu.edu/imt/lab/md-lab)
+*Jun 2019 – May 2021*
+
+Developed modeling and analysis methodologies for drivetrain systems in offshore wind applications.
+
+* Designed methods for stress estimation and structural down-scaling of multi-stage gearboxes
+* Modeled wind turbine drivetrains using multibody dynamics (Simpack) and reduced-order models (MATLAB)
+* Performed fatigue, vibration, and safety analyses for drivetrain components
+* Developed integrated simulation workflows across Simpack, MATLAB, and KISSsoft (COM interface)
+* Contributed to industrial applications, including modeling of reciprocating compressor valves
+* Published research in peer-reviewed international conferences
+
+---
+
+### PhD Researcher
+
+[**Technical University of Denmark (DTU)**](http://www.mek.dtu.dk/english)
+*Jul 2014 – Oct 2018*
+
+Conducted experimental, numerical, and analytical research on nonlinear mechanical systems.
+
+* Investigated vibro-impact dynamics and assessed modeling assumptions against experimental data
+* Developed and validated simulation models to improve accuracy and applicability
+* Applied analytical and numerical methods to explain nonlinear system behavior
+* Supported teaching in [“Dynamics of Machinery”](https://kurser.dtu.dk/course/41514) (MSc level)
+
+---
+
+### Assistant Professor (non-tenured)
+
+[**Federal University of Rio Grande do Norte (UFRN)**](https://www.ect.ufrn.br/)
+*Aug 2013 – Jun 2014*
+
+* Delivered undergraduate courses in numerical and fundamental computing (30–120 students)
+* Designed assignments and evaluations; provided structured feedback
+* Developed communication and teaching skills in large-group settings
+
+---
+
+## Education
+
+**PhD in Mechanical Engineering**
+[Technical University of Denmark (DTU)](http://www.mek.dtu.dk/english), 2018
+- Thesis: [*Vibro-Impact Mechanics — Analytical, Numerical and Experimental Investigations*]({% link phd_thesis.md %})
+
+**MSc in Mechanical Engineering**
+[Federal University of Rio Grande do Norte (UFRN)](https://www.ufrn.br/en), 2014
+
+**BSc in Mechanical Engineering**
+[Federal University of Rio Grande do Norte (UFRN)](https://www.ufrn.br/en), 2011
+
+---
+
+## Technical Skills
+
+### Modeling & Analysis
+
+* System modeling and simulation
+* Drivetrain dynamics (wind turbines, hybrid trucks)
+* Fatigue, vibration, and safety analysis
+* Model validation and experimental data analysis
+
+### Programming & Tools
+
+* MATLAB, Python, C++, Julia
+* Simulink, [Simpack](https://www.3ds.com/products-services/simulia/products/simpack/), [KISSsoft](https://www.kisssoft.com/en)
+* Git, Linux
+
+### Methods
+
+* Numerical simulation
+* Signal processing
+* Experimental modal analysis (EMA)
+
+---
+
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Languages
-======
-* English: Fluent, obtained 587 out of 677 points on [TOEFL ITP](https://www.ets.org/toefl_itp) test
-* Norwegian: Obtained Level B1/B2 after passing courses [NFUT0102](https://www.ntnu.edu/studies/courses/NFUT0102) and [NFUT0201](https://www.ntnu.edu/studies/courses/NFUT0201) at NTNU
-* Portuguese: Native speaker of Brazilian Portuguese
 
-Previous research projects
-======
-* Jul/2014--Oct/2018: **Vibro-Impact Mechanics -- Analytical, Numerical and Experimental Investigations**
-	* [Technical University of Denmark -- DTU](http://www.mek.dtu.dk/english)
-	* Description:
-	Roughly speaking, vibro-impacts are characterized by repeated collisions between objects or internal machine components whose movement is constrained by physical barriers, such as stops and clearances. This phenomenon is very common in engineering applications, being useful in some cases and problematic in others. While vibro-impacts can improve the performance of some devices, like concrete breakers, hammering, riveting and drilling devices, it also produces noise and wear in loose-joints, heat-exchangers and gear-pairs. The coefficient of restitution and contact forces are the most common ways to model vibro-impact systems. In this Ph.D. project, the **advantages and disadvantages** of those model approaches **are discussed and compared against experimental observations**. Different impact situations are tested experimentally, from hard unilateral impacts with tightened, neutral or loose gaps, to bilateral soft collisions. Common ground model comparisons are made by correlating analytical and numerical model predictions to experimental results. It is shown that both models are able to capture some important properties of vibro-impact systems, producing qualitative insight into their dynamic behavior.
+---
 
-* Aug/2010--Jun/2014: **Nonlinear control in the development of smart mechanical systems**
-	* [Federal University of Rio Grande do Norte -- UFRN](https://www.ufrn.br/en)
-	* Description:
-	In this research group we combined nonlinear control techniques, such as adaptive or variable structure controllers, with intelligent algorithms, as for instance fuzzy logic and artificial neural networks. The proposed strategies are intended to deal with the nonlinear characteristics as well as with modeling imprecisions and external disturbances that can arise.
+## Professional Service
+- Reviewer for international conferences and journals (e.g., [Journal of Vibration and Control](http://jvc.sagepub.com/) and [COBEM 2019](https://eventos.abcm.org.br/cobem2019/))
 
-Service
-======
-* Reviewer in conferences (e.g. [COBEM 2019](https://eventos.abcm.org.br/cobem2019/)) and [journal papers]({{site.author.publons}}) (e.g. the [Journal of Vibration and Control](http://jvc.sagepub.com/))
+
+## Additional Information
+**Languages:**
+English (Full Professional) · Portuguese (Native) · Norwegian Bokmål (Elementary)
+
+**Note:** PhD positions in Scandinavia are considered full-time professional experience.
+
