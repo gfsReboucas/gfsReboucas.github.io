@@ -10,23 +10,6 @@
 main:
   - title: "Resume"
     url: /cv/
-    
+
   - title: "Projects"
     url: /portfolio/
-        
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Lecturing"
-    url: /teaching/    
-    
-#
-#  - title: "Guide"
-#    url: /markdown/
-#
-#  - title: "Blog Posts"
-#    url: /year-archive/
-#   
