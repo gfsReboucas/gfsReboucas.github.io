@@ -1,56 +1,48 @@
 ---
-title: "Modeling and Experimental Validation of Nonlinear Systems"
-excerpt: "Selecting, validating, and applying models to understand real-world mechanical system behavior"
+title: "Vibro-Impact Modeling, Design of Experiments, and Model Validation"
+excerpt: "Integrated case study combining model development, experimental design, and model comparison"
 collection: portfolio
 permalink: /portfolio/vibro_impact
 ---
 
-## Modeling and Experimental Validation of Nonlinear Systems
+## Vibro-Impact Modeling, Design of Experiments, and Model Validation
 
 ### Purpose
-Engineering problems often have multiple competing models, each with different assumptions, accuracy, and computational cost.  
-This project focused on identifying the most suitable modeling approaches for vibro-impact systems and validating them against experimental data.
+Vibro-impact systems are sensitive to modeling assumptions, and different model types can produce very different predictions.  
+This project unified model development, design of experiments, and model comparison to determine which approaches are reliable for engineering use.
 
 ### Approach
-I combined analytical, numerical, and experimental methods to evaluate different modeling strategies:
+I combined three complementary workstreams:
 
-- Compared commonly used impact models (e.g., coefficient of restitution, contact force models)  
-- Designed and conducted experiments to reproduce different impact scenarios  
-- Correlated simulation and analytical predictions with experimental observations  
+1. **Model development:** analytical and numerical formulations for impact behavior
+2. **Design of experiments:** test matrix definition for stiffness, gap, and excitation variations
+3. **Model comparison:** direct cross-checks between analytical, numerical, and measured responses
 
 <figure>
-  <img src="{{site.url}}/images/projects/graphical_abstract.jpg" alt="Experimental setup and results comparison"/>
+  <img src="{{site.url}}/images/projects/graphical_abstract.jpg" alt="Experimental setup and model comparison"/>
   <figcaption>
-  Experimental setup and comparison of analytical, numerical, and experimental results for different impact models.
+  Experimental setup and comparison of analytical, numerical, and measured responses for vibro-impact behavior.
   </figcaption>
 </figure>
 
-### Experimental Work
-The experimental setup was designed and iteratively refined to investigate the influence of:
+### Key Results
+- Identified where simplified impact models are acceptable and where they are not
+- Quantified mismatch patterns between simulation and experiments across operating regions
+- Built a reproducible evaluation structure for selecting fit-for-purpose models
 
-- Contact stiffness  
-- Gap size  
-- Excitation frequency and amplitude  
+### Engineering Value
+- Supports faster model selection during early engineering studies
+- Reduces decision risk by exposing model limits before deployment
+- Improves confidence in simulation-backed recommendations
 
-This hands-on work involved:
-- Instrumentation and data acquisition (sensors, actuators, signal conditioning)  
-- Troubleshooting and tuning of experimental systems  
-- Validation of model assumptions against measured data  
-
-### Key Insights
-- Identified applicability ranges for different modeling approaches depending on system characteristics (e.g., contact duration)  
-- Demonstrated limitations of commonly used models when compared to real-world behavior  
-- Showed how analytical and numerical methods can explain experimentally observed nonlinear dynamics  
-
-### Engineering Relevance
-This work supports:
-- Selection of appropriate models for simulation and analysis  
-- Validation of simulation results against real systems  
-- Troubleshooting unexpected dynamic behavior in machinery  
-- Improving confidence in engineering decisions based on models  
+### Implementation
+- Instrumented and tuned an experimental rig for controlled impact scenarios
+- Ran parameterized simulations for multiple impact model variants
+- Compared results using consistent metrics in time and frequency domains
+- Refined model assumptions based on observed discrepancies
 
 ### Tools
-MATLAB · Maple (Analytical methods/perturbation techniques) · Experimental setup (dSPACE/ControlDesk)
+MATLAB · Maple (analytical methods) · dSPACE/ControlDesk · Experimental DAQ and instrumentation
 
 ### References
-[(**Rebouças**, 2018)]({% link phd_thesis.md %})
+[**Rebouças**, 2018]({% link phd_thesis.md %})

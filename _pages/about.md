@@ -8,24 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Using simulation to understand and optimize complex engineering systems
+Turning complex system behavior into actionable engineering decisions
 
 # About
 
-I am a Senior Analysis Engineer specializing in modeling and simulation of drivetrain and energy systems.
+I am a Senior Analysis Engineer focused on drivetrain and energy systems.
 
-My work focuses on understanding the behavior of complex mechanical systems and supporting engineering decisions through physics-based modeling, numerical simulation, and data analysis.
+I build physics-based models and simulation workflows that help teams evaluate performance, risk, and trade-offs before hardware decisions are locked in. My work is centered on turning complex technical behavior into clear, decision-oriented engineering insight.
 
-I have developed simulation frameworks for hybrid and conventional truck powertrains, as well as reduced-order models for wind turbine drivetrains. These models are used to evaluate system performance, analyze trade-offs, and support design and operational strategies.
+Across wind and heavy-duty vehicle applications, I have developed and applied models for hybrid and conventional powertrains, gearbox dynamics, and system-level energy performance. I use these models to compare design options, test control strategies, and support cost and feasibility decisions.
 
-My approach combines engineering reasoning with computational tools to bridge the gap between detailed physical models and practical, decision-oriented analysis.
+My approach combines first-principles engineering, numerical simulation, and practical analysis to deliver results that are technically rigorous and useful in product development.
 
 # Background
 
-I hold a PhD in Mechanical Engineering from DTU (Technical University of Denmark), with earlier degrees from UFRN (Brazil).
+I hold a PhD in Mechanical Engineering from DTU (Technical University of Denmark), with prior MSc and BSc degrees from UFRN (Brazil).
 
-My research background is in nonlinear mechanics, where I combined experimental, numerical, and analytical methods to study vibro-impact systems and understand differences between models and real-world behavior.
+I started in nonlinear mechanics, where I combined experiments, analytical methods, and numerical simulation to evaluate model reliability in vibro-impact systems. This foundation in model validation and uncertainty translated directly into applied industrial work.
 
-Following my PhD, I worked on drivetrain systems for offshore wind turbines, developing modeling approaches for gearbox dynamics, fatigue, and reduced-order simulation. I later transitioned to hybrid truck powertrains, applying system-level modeling to analyze energy usage, efficiency, and techno-economic performance.
-
-This progression reflects a shift from fundamental mechanics to applied engineering problems in energy and machinery systems.
+Since then, I have worked on offshore wind and hybrid truck powertrain challenges, including drivetrain dynamics, fatigue-related analysis, reduced-order modeling, and techno-economic studies. Over time, my role evolved from research-heavy work to engineering analysis that directly supports product and technology decisions.
