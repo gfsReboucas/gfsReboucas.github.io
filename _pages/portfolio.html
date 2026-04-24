@@ -7,48 +7,47 @@ author_profile: true
 
 {% include base_path %}
 
-# Selected Engineering Projects
+<h1>Engineering Portfolio</h1>
 
-I use physics-based modeling, simulation, and data analysis to understand complex machinery systems and support engineering decisions.
+<p>
+  I use modeling, simulation, and decision-oriented analysis to support drivetrain and energy-system engineering.
+</p>
 
-My portfolio focuses on three recurring themes:
+<hr />
 
-- **System-level simulation** for energy and drivetrain systems  
-- **Model reduction and scaling** for practical engineering workflows  
-- **Model validation** against experimental or high-fidelity results  
+<h2>Featured Projects</h2>
 
----
+<h3><a href="{{ base_path }}/portfolio/truck_sim">Hybrid and Conventional Truck Powertrain Simulation</a></h3>
+<p>
+  System-level simulation of combustion, electric, and hybrid truck powertrains to evaluate energy usage,
+  control strategies, and techno-economic performance.
+</p>
+<p><strong>Focus:</strong> powertrain modeling · control strategy analysis · TCO/ROI · scenario comparison<br />
+<strong>Tools:</strong> MATLAB · Simulink · Python · Excel</p>
 
-## Featured Projects
+<hr />
 
-### [Hybrid and Conventional Truck Powertrain Simulation]({{ base_path }}/portfolio/truck_sim)
+<h3><a href="{{ base_path }}/portfolio/down_scaling">Down-Scaled Modeling of Wind Turbine Gearboxes</a></h3>
+<p>
+  Scaling methodology for wind turbine gearbox models that preserves safety factors and dynamic behavior
+  for efficient test and development workflows.
+</p>
+<p><strong>Focus:</strong> gearbox scaling · drivetrain dynamics · reduced-order modeling · ISO 6336<br />
+<strong>Tools:</strong> MATLAB · KISSsoft · Simpack · COM interface</p>
 
-System-level simulation of combustion, electric, and hybrid truck powertrains to evaluate energy usage, control strategies, and techno-economic performance.
+<hr />
 
-**Focus:** powertrain modeling · TCO/ROI · energy flow · system optimization  
-**Tools:** MATLAB · Simulink · Python · Excel  
+<h3><a href="{{ base_path }}/portfolio/vibro_impact">Vibro-Impact Modeling, Design of Experiments, and Model Validation</a></h3>
+<p>
+  Integrated analytical, numerical, and experimental investigation of nonlinear vibro-impact behavior to
+  select fit-for-purpose models.
+</p>
+<p><strong>Focus:</strong> nonlinear dynamics · design of experiments · model comparison · validation<br />
+<strong>Tools:</strong> MATLAB · Maple · dSPACE/ControlDesk</p>
 
----
+<hr />
 
-### [Down-Scaled Modeling of Wind Turbine Gearboxes]({{ base_path }}/portfolio/down_scaling)
-
-Methodology for scaling wind turbine gearboxes while preserving structural integrity, safety factors, and dynamic behavior.
-
-**Focus:** drivetrain dynamics · gearbox scaling · reduced-order modeling · ISO 6336  
-**Tools:** MATLAB · KISSsoft · Simpack · COM interface  
-
----
-
-### [Modeling and Experimental Validation of Nonlinear Systems]({{ base_path }}/portfolio/vibro_impact)
-
-Comparison and validation of analytical and numerical models against experimental vibro-impact data to understand nonlinear mechanical behavior.
-
-**Focus:** model validation · nonlinear dynamics · experimental testing · simulation reliability  
-**Tools:** MATLAB · dSPACE/ControlDesk · analytical methods  
-
----
-
-## All Portfolio Items
+<h2>All Portfolio Items</h2>
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}

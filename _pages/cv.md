@@ -119,16 +119,25 @@ Conducted experimental, numerical, and analytical research on nonlinear mechanic
 
 ---
 
-## Publications
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Additional Experience
 
----
+### Publications
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
 
-## Professional Service
+### Talks
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
+### Teaching
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+### Service
 - Reviewer for international conferences and journals (e.g., [Journal of Vibration and Control](http://jvc.sagepub.com/) and [COBEM 2019](https://eventos.abcm.org.br/cobem2019/))
-
 
 ## Additional Information
 **Languages:**
