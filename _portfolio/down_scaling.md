@@ -5,8 +5,6 @@ collection: portfolio
 permalink: /portfolio/down_scaling
 ---
 
-## Case Study: Down-Scaled Modeling of Wind Turbine Gearboxes
-
 ### Purpose
 Full-scale wind turbine gearbox testing is expensive and difficult to iterate quickly.  
 This work developed a structured down-scaling method to create compact gearbox models while preserving key design and dynamic characteristics required for engineering decisions.
