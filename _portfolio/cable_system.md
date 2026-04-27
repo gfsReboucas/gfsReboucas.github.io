@@ -35,3 +35,6 @@ This work supports:
 
 ### Tools
 MATLAB · Numerical simulation · Analytical modeling
+
+### References
+[(Fonseca, Sampaio, **Rebouças**, Pereira, Cunha Jr., 2021)](/publication/A6)
