@@ -51,4 +51,4 @@ This work supports:
 MATLAB · Simulink · Python · Excel (TCO/ROI modeling)
 
 ### References
-[(Brudeli, **Rebouças**, Vestgaard, Fagerås, 2026)][/publication/A5]
+[(Brudeli, **Rebouças**, Vestgaard, Fagerås, 2026)](/publication/A5)
