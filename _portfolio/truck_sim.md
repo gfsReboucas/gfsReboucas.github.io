@@ -6,8 +6,6 @@ permalink: /portfolio/truck_sim
 
 ---
 
-## Hybrid and Conventional Truck Powertrain Simulation
-
 ### Purpose
 Modern truck powertrains involve complex interactions between combustion engines, electric machines, and batteries.  
 This project focused on developing simulation models to evaluate system behavior, energy usage, and economic performance under realistic operating conditions.
