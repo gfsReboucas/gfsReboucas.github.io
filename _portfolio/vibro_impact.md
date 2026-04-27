@@ -5,8 +5,6 @@ collection: portfolio
 permalink: /portfolio/vibro_impact
 ---
 
-## Vibro-Impact Modeling, Design of Experiments, and Model Validation
-
 ### Purpose
 Vibro-impact systems are sensitive to modeling assumptions, and different model types can produce very different predictions.  
 This project unified model development, design of experiments, and model comparison to determine which approaches are reliable for engineering use.
