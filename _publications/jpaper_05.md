@@ -2,11 +2,12 @@
 title: "Innovating Hybrid Power: Simulation, Testing, and Regulatory Compliance of a Patented Series-Parallel Heavy-Duty Truck"
 collection: publications
 permalink: /publication/A5
-venue: 'Internationaler Motorenkongress 2025'
-date: 2026-01-04
+venue: '12th International Engine Congress 2025'
+date: 2025-02-25
 citation: "Brudeli, G., <b>de Souza Rebouças, G.F.</b>, Vestgaard, B., Fagerås, H.F. Innovating Hybrid Power. In: Heintzel, A. (eds) Internationaler Motorenkongress 2025. Int.Engine.Congr. 2025 2025. Proceedings. Springer Vieweg, Wiesbaden."
 paperurl: "https://doi.org/10.1007/978-3-658-49720-0_2"
 ---
+This work was presented at the [12th International Engine Congress 2025](https://www.atzlive.de/en/events/archiv-engine-congress-2025) ATZ 2025 in Baden-Baden, Germany.
 
 ## Abstract
 The patented Brudeli Powerhybrid™ hybrid powertrain is currently undergoing testing on Norwegian roads to demonstrate its emission reduction potential. A series-parallel hybrid powertrain is installed on a DAF CF 410 tractor, combining an 11-L diesel engine with two electric motors power (2 × 130 kW continuous). Extended electric driving will be obtained with a 200-kWh battery, replacing otherwise low efficiency engine operation and optimizing fuel use.
