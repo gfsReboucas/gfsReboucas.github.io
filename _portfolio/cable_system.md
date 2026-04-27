@@ -5,8 +5,6 @@ collection: portfolio
 permalink: /portfolio/cable_system
 ---
 
-## Modeling of Cable Systems with Moving Mass
-
 ### Purpose
 Cable-driven systems such as cable cars and hoisting mechanisms are subject to complex dynamic behavior due to moving masses and time-varying geometry.
 
