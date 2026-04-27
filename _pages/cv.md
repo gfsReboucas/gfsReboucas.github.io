@@ -119,6 +119,14 @@ Conducted experimental, numerical, and analytical research on nonlinear mechanic
 
 ---
 
+## Languages
+
+* English (Full Professional)
+* Norwegian Bokmål (Elementary, B1/B2)
+* Portuguese (Native)
+
+---
+
 ## Additional Experience
 
 ### Publications
@@ -138,10 +146,4 @@ Conducted experimental, numerical, and analytical research on nonlinear mechanic
 
 ### Service
 - Reviewer for international conferences and journals (e.g., [Journal of Vibration and Control](http://jvc.sagepub.com/) and [COBEM 2019](https://eventos.abcm.org.br/cobem2019/))
-
-## Additional Information
-**Languages:**
-English (Full Professional) · Portuguese (Native) · Norwegian Bokmål (Elementary)
-
-**Note:** PhD positions in Scandinavia are considered full-time professional experience.
 
